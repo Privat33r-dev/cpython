@@ -130,7 +130,7 @@ parameter is the class *Directory*.
 Managed attributes
 ------------------
 
-A popular use for descriptors is managing access to instance data.  The
+A popular use for descriptors is managing access to the instance data.  The
 descriptor is assigned to a public attribute in the class dictionary while the
 actual data is stored as a private attribute in the instance dictionary.  The
 descriptor's :meth:`__get__` and :meth:`__set__` methods are triggered when
