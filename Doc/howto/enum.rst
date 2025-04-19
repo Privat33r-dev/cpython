@@ -8,7 +8,7 @@ Enum HOWTO
 
 .. currentmodule:: enum
 
-An :class:`Enum` is a set of symbolic names bound to unique values.  They are
+An :class:`Enum` is a set of symbolic names bound to unique values. They are
 similar to global variables, but they offer a more useful :func:`repr`,
 grouping, type-safety, and a few other features.
 
